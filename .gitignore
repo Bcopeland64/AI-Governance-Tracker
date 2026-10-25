@@ -1,0 +1,6 @@
+
+
+#Ignore vscode AI rules
+.streamlit/streamlit.pid
+.streamlit/streamlit.log
+.github/instructions/codacy.instructions.md
